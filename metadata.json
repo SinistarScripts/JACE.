@@ -1,0 +1,5 @@
+{
+  "name": "JACE",
+  "description": "A desktop-optimized, TikTok-style vertical video feed with scroll snapping, autoplay behavior, and product integration.",
+  "requestFramePermissions": []
+}
